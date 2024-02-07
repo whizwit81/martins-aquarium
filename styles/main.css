@@ -1,0 +1,149 @@
+img {
+border-radius: 15px;
+width: 200px;
+display: flex;
+justify-content: center;
+}
+
+.text_bold_header_Martins {
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 5px 5px 5px 5px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.text_bold_header {
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.Both_Sections {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fish-details {
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+} 
+
+.text_bold_header_Tank_Tips {
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+.entire_fish_section {
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+.entire_tip_section {
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+
+}
+.Tips_Container {
+    
+    font-weight: bold;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+ } 
+
+ .Travel {
+    display: flex;
+    background-color: skyblue;
+    justify-content: center;
+    font-weight: bold;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+ } 
+
+ .travelList {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    
+ }
+.Places {
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+}
+
+.Tip_Card_Master {
+    display: flex;
+    flex-direction: column;
+    font-size: xx-large;
+    box-shadow: 10px 10px 30px;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.Tip_Card_Place {
+    font-weight: bold;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
